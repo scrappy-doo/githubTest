@@ -1,6 +1,6 @@
 <?php
 	include("DBSingleton.php");
-	
+	 
 	$search;
 	$emptyResult = [];
 	
